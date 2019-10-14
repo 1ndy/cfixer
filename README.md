@@ -7,5 +7,5 @@ This script reformats code written by Tom to a format I prefer. Things it fixes:
 * removes space between function/for/while/if and ()
 * compacts if-elseif-else statements
 
-## how
+## How does it work
 Perl regex. Ugly on top of ugly.
