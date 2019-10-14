@@ -1,5 +1,5 @@
 # cfixer
-A perl script to reformt code written by Tom
+A perl script to reformat code written by Tom
 
 This script reformats code written by Tom to a format I prefer. Things it fixes:
 * moves single line brace up one line
